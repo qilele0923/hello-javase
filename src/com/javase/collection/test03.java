@@ -6,6 +6,6 @@ package com.javase.collection;
 public class test03 {
     public static void main(String[] args) {
         System.out.println("email wenjian");
-        System.out.println(" ---woshi 2.0");
+
     }
 }
